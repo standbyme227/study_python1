@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="581ff576-136d-4466-b3cc-2b2058e049da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding_dojang/recursive_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding_dojang/recursive_3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="44" />
-          <entry key="py" value="35080" />
+          <entry key="py" value="35346" />
           <entry key="txt" value="81" />
           <entry key="yml" value="41" />
         </counts>
@@ -52,7 +52,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="125" />
-          <entry key="Python" value="35080" />
+          <entry key="Python" value="35346" />
           <entry key="YAML" value="41" />
         </counts>
       </usages-collector>
@@ -138,10 +138,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/coding_dojang/recursive_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="240">
+              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
               <folding>
-                <marker date="1561517288552" expanded="true" signature="16:17" ph="..." />
+                <marker date="1561679691064" expanded="true" signature="60:65" ph="..." />
               </folding>
             </state>
           </provider>
@@ -718,10 +718,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/coding_dojang/recursive_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding>
-            <marker date="1561517288552" expanded="true" signature="16:17" ph="..." />
+            <marker date="1561679691064" expanded="true" signature="60:65" ph="..." />
           </folding>
         </state>
       </provider>
