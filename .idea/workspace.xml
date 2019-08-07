@@ -14,22 +14,24 @@
     <session id="853306205">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.28" value="2" />
           <entry key="project.open.time.3" value="3" />
-          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="93" />
+          <entry key="py" value="97" />
           <entry key="txt" value="4" />
           <entry key="yml" value="1" />
         </counts>
@@ -37,14 +39,14 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="93" />
+          <entry key="Python" value="97" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="44" />
-          <entry key="py" value="35476" />
+          <entry key="py" value="36333" />
           <entry key="txt" value="81" />
           <entry key="yml" value="41" />
         </counts>
@@ -52,7 +54,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="125" />
-          <entry key="Python" value="35476" />
+          <entry key="Python" value="36333" />
           <entry key="YAML" value="41" />
         </counts>
       </usages-collector>
@@ -60,45 +62,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coding_dojang/function_4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="3" selection-end-column="26" />
-              <folding>
-                <marker date="1561344568887" expanded="true" signature="38:43" ph="..." />
-                <marker date="1561344568887" expanded="true" signature="217:222" ph="..." />
-                <marker date="1561344568887" expanded="true" signature="328:333" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coding_dojang/function_5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="26" />
-              <folding>
-                <marker date="1561344741480" expanded="true" signature="60:61" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coding_dojang/function_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
-              <folding>
-                <marker date="1561346190041" expanded="true" signature="97:102" ph="..." />
-                <marker date="1561346190041" expanded="true" signature="158:163" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coding_dojang/recursive.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -135,13 +98,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coding_dojang/32_lambda_basic.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
               <folding>
                 <marker date="1562893300324" expanded="true" signature="16:21" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coding_dojang/closure_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+              <folding>
+                <marker date="1563776852103" expanded="true" signature="26:31" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/coding_dojang/recursive_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <marker date="1565165139203" expanded="true" signature="19:24" ph="..." />
+                <marker date="1565165139203" expanded="true" signature="174:179" ph="..." />
+                <marker date="1565165139203" expanded="true" signature="292:297" ph="..." />
+                <marker date="1565165139203" expanded="true" signature="397:402" ph="..." />
+                <marker date="1565165139203" expanded="true" signature="485:490" ph="..." />
               </folding>
             </state>
           </provider>
@@ -187,9 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ex29.py" />
-        <option value="$PROJECT_DIR$/ex30.py" />
-        <option value="$PROJECT_DIR$/ex31.py" />
         <option value="$PROJECT_DIR$/ex31_2.py" />
         <option value="$PROJECT_DIR$/ex32.py" />
         <option value="$PROJECT_DIR$/ex33.py" />
@@ -238,6 +226,9 @@
         <option value="$PROJECT_DIR$/coding_dojang/recursive_2.py" />
         <option value="$PROJECT_DIR$/coding_dojang/recursive_3.py" />
         <option value="$PROJECT_DIR$/coding_dojang/32_lambda_basic.py" />
+        <option value="$PROJECT_DIR$/coding_dojang/closure_1.py" />
+        <option value="$PROJECT_DIR$/just_study/closure.py" />
+        <option value="$PROJECT_DIR$/coding_dojang/recursive_1.py" />
       </list>
     </option>
   </component>
@@ -248,8 +239,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -259,6 +251,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -275,7 +268,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -314,7 +306,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.30533117" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25121164" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -343,34 +335,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ex29.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex30.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex31.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex31_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex32.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -621,9 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <marker date="1561343252423" expanded="true" signature="38:43" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -631,11 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="3" selection-end-column="26" />
-          <folding>
-            <marker date="1561344568887" expanded="true" signature="38:43" ph="..." />
-            <marker date="1561344568887" expanded="true" signature="217:222" ph="..." />
-            <marker date="1561344568887" expanded="true" signature="328:333" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -643,9 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="26" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="26" />
-          <folding>
-            <marker date="1561344741480" expanded="true" signature="60:61" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -653,10 +606,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
-          <folding>
-            <marker date="1561346190041" expanded="true" signature="97:102" ph="..." />
-            <marker date="1561346190041" expanded="true" signature="158:163" ph="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1528470035/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2191">
+          <caret line="3649" column="12" lean-forward="true" selection-start-line="3649" selection-start-column="12" selection-end-line="3649" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/just_study/closure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -670,12 +633,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coding_dojang/recursive_2.py">
+    <entry file="file://$PROJECT_DIR$/coding_dojang/32_lambda_basic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="135">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
           <folding>
-            <marker date="1561513578301" expanded="true" signature="17:22" ph="..." />
+            <marker date="1562893300324" expanded="true" signature="16:21" ph="..." />
           </folding>
         </state>
       </provider>
@@ -701,6 +664,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/coding_dojang/closure_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <marker date="1563776852103" expanded="true" signature="26:31" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coding_dojang/recursive_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <marker date="1561513578301" expanded="true" signature="17:22" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/coding_dojang/recursive_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -711,12 +694,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coding_dojang/32_lambda_basic.py">
+    <entry file="file://$PROJECT_DIR$/coding_dojang/recursive_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        <state relative-caret-position="555">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
           <folding>
-            <marker date="1562893300324" expanded="true" signature="16:21" ph="..." />
+            <marker date="1565165139203" expanded="true" signature="19:24" ph="..." />
+            <marker date="1565165139203" expanded="true" signature="174:179" ph="..." />
+            <marker date="1565165139203" expanded="true" signature="292:297" ph="..." />
+            <marker date="1565165139203" expanded="true" signature="397:402" ph="..." />
+            <marker date="1565165139203" expanded="true" signature="485:490" ph="..." />
           </folding>
         </state>
       </provider>
